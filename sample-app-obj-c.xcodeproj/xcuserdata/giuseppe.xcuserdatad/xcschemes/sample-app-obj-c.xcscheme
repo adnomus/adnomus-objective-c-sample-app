@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "E39DA3101E6CAFE600D70268"
+               BlueprintIdentifier = "E3391AE11E7627FB00A2FD38"
                BuildableName = "sample-app-obj-c.app"
                BlueprintName = "sample-app-obj-c"
                ReferencedContainer = "container:sample-app-obj-c.xcodeproj">
@@ -32,7 +32,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E39DA3101E6CAFE600D70268"
+            BlueprintIdentifier = "E3391AE11E7627FB00A2FD38"
             BuildableName = "sample-app-obj-c.app"
             BlueprintName = "sample-app-obj-c"
             ReferencedContainer = "container:sample-app-obj-c.xcodeproj">
@@ -55,7 +55,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E39DA3101E6CAFE600D70268"
+            BlueprintIdentifier = "E3391AE11E7627FB00A2FD38"
             BuildableName = "sample-app-obj-c.app"
             BlueprintName = "sample-app-obj-c"
             ReferencedContainer = "container:sample-app-obj-c.xcodeproj">
@@ -74,7 +74,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E39DA3101E6CAFE600D70268"
+            BlueprintIdentifier = "E3391AE11E7627FB00A2FD38"
             BuildableName = "sample-app-obj-c.app"
             BlueprintName = "sample-app-obj-c"
             ReferencedContainer = "container:sample-app-obj-c.xcodeproj">

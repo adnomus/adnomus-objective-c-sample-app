@@ -4,7 +4,7 @@ platform :ios, '8.0'
 
 inhibit_all_warnings!
 target 'sample-app-obj-c' do
-  pod 'AdnomusSdk', :git => 'https://gitlab.com/gbarbalinardo/adnomus-ios-sdk.git'
+  pod 'AdnomusSdk', :git => 'http://gitlab.adnomus.com/gbarbalinardo/adnomus-ios-sdk'
 end
 
 project 'sample-app-obj-c.xcodeproj'

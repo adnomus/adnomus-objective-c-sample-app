@@ -2,11 +2,13 @@
 //  AppDelegate.m
 //  sample-app-obj-c
 //
-//  Created by Giuseppe Barbalinardo on 3/5/17.
+//  Created by Giuseppe Barbalinardo on 3/12/17.
 //  Copyright © 2017 Giuseppe Barbalinardo. All rights reserved.
 //
 
 #import "AppDelegate.h"
+#import "AdnomusSdk-Swift.h"
+
 
 @interface AppDelegate ()
 
@@ -16,7 +18,9 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
-    // Override point for customization after application launch.
+
+    AdNomusControl *adManager = [AdNomusControl sharedInstance];
+    [adManager initializeWithNetworkName:@"test customer" networkSecret:@"666xfe" viewerId:@"test_user"];
     return YES;
 }
 
